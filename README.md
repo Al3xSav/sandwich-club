@@ -1,6 +1,4 @@
-# Sandwich Club Project Starter Code
-
-## Project Overview
+# Project Overview
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
@@ -24,3 +22,9 @@ Download the [Sandwich Club app starter code.](https://github.com/udacity/sandwi
 Design the layout for the detail activity so the different elements
 display in a sensible way. Implement the JSON parsing in JsonUtils so it
 produces a Sandwich Object that can be used to populate the UI that you designed.
+
+## Screenshots of the App
+<img src="https://github.com/Al3xSav/sandwich-club/blob/master/screenshots/Screenshot_1538758702.png?raw=true" height="500" width="350" /><br/><br/>
+<img src="https://github.com/Al3xSav/sandwich-club/blob/master/screenshots/pixlr_20180903134849183.jpg?raw=true" height="500" width="350" /><br/><br/>
+
+## Download <a href="https://github.com/Al3xSav/sandwich-club/blob/master/screenshots/sandwichclub.apk?raw=true">Sandwich Club APK</a>
